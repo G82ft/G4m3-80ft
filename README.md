@@ -2,7 +2,9 @@
 
 Hello, my name is Leonid. Russian is my native language, I can also speak English (≈B2).
 
-Every subsection and bullet point here is ordered from what I have more experience with to what I have less experience with (except subsections in the [Other](#other) section).
+Mainly I use Python. I can write Telegram bots, APIs, parsers and other scripts. In college, I've learned MySQL, MSSQL, C#, WPF and WindowsForms.
+
+_Every subsection and bullet point here is ordered from what I have more experience with to what I have less experience with (except subsections in the [Other](#other) section)._
 
 - [Languages](#languages)
   - [Backend](#backend)
